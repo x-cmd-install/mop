@@ -7,7 +7,7 @@ about:
   head: aec04cf
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:29:24Z
+  collectedAt: 2026-09-04T21:04:47Z
 timeline:
   created: 2013-08-06
   lastCommit: 2025-12-28
@@ -83,6 +83,44 @@ total:
   openIssue: 5
   commit: 361
 ---
+path: /home/runner/.x-repo/github.com/mop-tracker/mop
+collectedAt: 2026-09-04T21:04:48Z
+loc:
+  Go:
+    code: 2020
+    comments: 340
+    blanks: 368
+    files: 12
+  Json:
+    code: 143
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 14
+    comments: 3
+    blanks: 5
+    files: 1
+  Ruby:
+    code: 13
+    comments: 0
+    blanks: 3
+    files: 1
+  Dockerfile:
+    code: 8
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 62
+    blanks: 30
+    files: 1
+total:
+  code: 2198
+  comments: 405
+  blanks: 407
+  files: 17
 ---
 date: "2026-08-24"
 repo:

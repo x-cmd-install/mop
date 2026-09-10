@@ -12,7 +12,7 @@ Stock market tracker for hackers.
 x install mop
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **2,198** 行代码（覆盖前 5 种语言、共 **16** 个文件）。
 
@@ -67,4 +67,4 @@ mop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T21:09:40Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:38:34Z._

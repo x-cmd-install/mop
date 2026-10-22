@@ -14,11 +14,11 @@ x install mop
 
 ## Code insight
 
-Total: **2,198** lines of code across **16** files in the top 5 languages.
+Total: **2,257** lines of code across **16** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 2,020 | 340 | 368 | 12 |
+| Go | 2,079 | 342 | 370 | 12 |
 | Json | 143 | 0 | 0 | 1 |
 | Makefile | 14 | 3 | 5 | 1 |
 | Ruby | 13 | 0 | 3 | 1 |
@@ -45,18 +45,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 51 · **Open PRs**: 1 · **Closed issues**: 72 · **Open issues**: 6 · **Commits**: 361
+- **Releases**: 0 · **Merged PRs**: 52 · **Open PRs**: 0 · **Closed issues**: 73 · **Open issues**: 5 · **Commits**: 364
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-04-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 360d | 2025-10-26 | 0 | 1 | 1 | 0 | 4 | 1 |
-| last720d | 2024-10-31 | 0 | 7 | 1 | 9 | 6 | 22 |
+| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 360d | 2025-10-27 | 0 | 2 | 0 | 1 | 3 | 3 |
+| last720d | 2024-11-01 | 0 | 8 | 0 | 10 | 5 | 25 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for mop lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T06:00:47Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:55:08Z._
